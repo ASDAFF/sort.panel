@@ -1,0 +1,17 @@
+{
+  "name": "sort.panel",
+  "version": "1.0.0",
+  "main": "",
+  "ignore": [
+    "src",
+    ".gitignore",
+    "bower.json",
+    "source",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery": ">=1.10.2",
+    "underscore": "~1.5.2"
+  }
+}
