@@ -1,0 +1,19 @@
+{
+  "name": "sort.panel",
+  "version": "1.0.0",
+  "description": "Панель сортировки для компонентов, выводящих списки элементов.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASDAFF/sort.panel.git"
+  },
+  "author": "ASDAFF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASDAFF/sort.panel/issues"
+  },
+  "homepage": "https://github.com/ASDAFF/sort.panel#readme"
+}
