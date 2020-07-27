@@ -2,5 +2,5 @@
     die();
 }
 
-$MESS['CODEBLOGPRO_SORT_PANEL_COMPONENT_TEMPALTE_SORT_BY_VALUE']    = 'Сортировать по';
-$MESS['CODEBLOGPRO_SORT_PANEL_COMPONENT_TEMPALTE_SORT_ORDER_VALUE'] = 'Направление сортировки';
+$MESS['CODEBLOGPRO_SORT_PANEL_COMPONENT_TEMPALTE_SORT_BY_VALUE']    = 'РЎРѕСЂС‚РёСЂРѕРІР°С‚СЊ РїРѕ';
+$MESS['CODEBLOGPRO_SORT_PANEL_COMPONENT_TEMPALTE_SORT_ORDER_VALUE'] = 'РќР°РїСЂР°РІР»РµРЅРёРµ СЃРѕСЂС‚РёСЂРѕРІРєРё';
